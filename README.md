@@ -1,4 +1,4 @@
-##Template de aplicação NextJS
+Template de aplicação NextJS
 
 Included:
 
